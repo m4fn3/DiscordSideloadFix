@@ -1,0 +1,9 @@
+Package: com.m4fn3.discord-sideload-fix
+Name: DiscordSideloadFix
+Version: 1.0.0
+Architecture: iphoneos-arm
+Description: Fix the crash on sideloaded Discord
+Maintainer: mafu
+Author: mafu
+Section: Tweaks
+Depends: mobilesubstrate
